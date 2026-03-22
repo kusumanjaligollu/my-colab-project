@@ -87,10 +87,6 @@ The chatbot provides a simple button-based interface where users can click optio
 
 ## 👨‍💻 Author
 
-* Your Name
+* G.kusumanjali
 
----
 
-## 📜 License
-
-This project is for educational purposes.
